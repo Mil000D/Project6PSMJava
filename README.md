@@ -1,4 +1,4 @@
-# String Equation Simulation
+# String Equation Simulation in Java
 
 ## Program Description
 This repository contains a simulation program for solving the string equation which also determines the shape of the string at the moment 𝑡.
